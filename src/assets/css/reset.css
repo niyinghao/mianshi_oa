@@ -1,0 +1,59 @@
+body,html,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,input,select,button{
+	margin:0;
+	padding:0;
+}
+body{
+	font-size: 14px;
+	font-family: "microsoft yahei";
+	color: #999;
+}
+a{
+	color: #666;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+i,cite{
+	font-style: normal;
+}
+cite{
+	float: right;
+}
+ul,li,ol{
+	list-style: none;
+}
+
+.l{
+	float: left;
+}
+.r{
+	float: right;
+}
+.hid{
+	overflow: hidden;
+}
+.hidden{
+	display: none;
+}
+.clear{
+	display: block;
+	clear: both;
+}
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	width: 0;
+}
+.rel{
+	position: relative;
+}
+.abs{
+	position: absolute;
+}
+.fix{
+	position: fixed;
+}

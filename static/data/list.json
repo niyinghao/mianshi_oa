@@ -1,0 +1,21 @@
+[{
+	"title":"用户权限管理",
+	"path":"/index/userqx",
+	"name":[{
+		"title":"组织结构",
+		"path":"/index/userqx/zuzhi"
+		
+	},{
+		"title":"角色管理",
+		"path":"/index/userqx/name"
+		
+	},{
+		"title":"用户管理",
+		"path":"/index/userqx/user"
+		
+	},{
+		"title":"菜单管理",
+		"path":"/index/userqx/caidan"
+		
+	}]
+}]
